@@ -2,7 +2,7 @@
  <img alt="hi" src="https://c.tenor.com/lAr_Fip4Sx0AAAAi/woman-raising-hand-joypixels.gif" align="center"  width= "100vw"/> 
  <h1> Welcome  to my profile! :point_down: </h1>
  <p> I am a full stack developer who is passionate about developing solutions :woman_technologist:. </p>
- <p>You will either find me learning new trendy skills or busy reading about the decentralised web! :sunglasses: </p>
+ <p>You will either find me learning new trendy skills or busy reading up on decentralised web! :sunglasses: </p>
 
 
 <!--

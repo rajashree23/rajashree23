@@ -1,5 +1,5 @@
 <!-- ### Hi, 👋 I am Rajashree Parhi -->
-<img alt="hi" src="https://c.tenor.com/lAr_Fip4Sx0AAAAi/woman-raising-hand-joypixels.gif" align="center"/>
+<img alt="hi" src="https://c.tenor.com/lAr_Fip4Sx0AAAAi/woman-raising-hand-joypixels.gif" align="left" transform="transform: scale(0.3)"/>
 
 
 <!--

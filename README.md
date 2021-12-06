@@ -1,6 +1,6 @@
 <!-- ### Hi, 👋 I am Rajashree Parhi -->
  <img alt="hi" src="https://c.tenor.com/lAr_Fip4Sx0AAAAi/woman-raising-hand-joypixels.gif" align="center"  width= "100vw"/> 
- <h1> Welcome  to my profile! :smiley: </h1>
+ <h1> Welcome  to my profile! :point_down: </h1>
  <p> I am a full stack developer </p>
 
 

@@ -4,8 +4,10 @@
  <p> I am a full stack web and app developer who is passionate about building solutions :woman_technologist:. </p>
  <p>You will either find me learning new trendy skills or busy reading up on decentralised web! :sunglasses:</p>
 
-P.S  I write articles as well. Find it at [Articles & More — Every Week](https://medium.com/@rajashree.chainwhiz)  
- 
+- :heart: I'm currently building an open-source marketplace on the Polygon Network connecting businesses, project-owners, and clients with independent developers all around the globe. Tap here :point_right: [Chainwhiz](https://www.chainwhiz.app/)
+- :writing_hand:	 I write articles as well. Find it at [Articles & More — Every Week](https://medium.com/@rajashree.chainwhiz)  
+- 💬 Ask me about Crypto and Blockchain
+
 
  <br/> 
  

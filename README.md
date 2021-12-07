@@ -8,7 +8,7 @@ P.S I write articles as well. Find it here [Articles & More — Every Week](
  
  <br/> <br/>
  **Languages and Tools:**
- 
+ <p align="left"
 <img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img height="25" src="https://img.icons8.com/color/48/000000/javascript.png"/>
 <img height="25" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
@@ -16,6 +16,7 @@ P.S I write articles as well. Find it here [Articles & More — Every Week](
 <img height="25" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
 <img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
 <img height="25" src="https://img.icons8.com/color/48/000000/flutter.png"/> 
+</p>
 
 <!--
 **rajashree23/rajashree23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

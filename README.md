@@ -6,16 +6,16 @@
 P.S I write articles as well. Find it here [Articles & More — Every Week](https://medium.com/articles-more-every-week/web-2-0-to-3-0-tyranny-to-haven-24888b0f0ce4)
 </p>
  
- 
+ <br/> <br/>
  **Languages and Tools:**
  
-<img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-<code> <img height="20" src="https://img.icons8.com/color/48/000000/javascript.png"/> </code> 
-<code> <img height="20" src="https://img.icons8.com/color/48/000000/html-5.png"/> </code>
-<code> <img height="20" src="https://img.icons8.com/color/48/000000/css3.png"/> </code>
-<code> <img height="20" src="https://img.icons8.com/color/48/000000/nodejs.png"/> </code> 
-<code> <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" /> </code> 
-<code> <img height="20" src="https://img.icons8.com/color/48/000000/flutter.png"/> </code>
+<img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+<img height="25" src="https://img.icons8.com/color/48/000000/javascript.png"/>
+<img height="25" src="https://img.icons8.com/color/48/000000/html-5.png"/> 
+<img height="25" src="https://img.icons8.com/color/48/000000/css3.png"/> 
+<img height="25" src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
+<img height="25" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img height="25" src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 
 <!--
 **rajashree23/rajashree23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

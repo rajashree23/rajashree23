@@ -7,6 +7,8 @@
 - :heart: I'm currently building an open-source marketplace on the Polygon Network connecting businesses, project-owners, and clients with independent developers all around the globe. Tap here :point_right: [Chainwhiz](https://www.chainwhiz.app/)
 - :writing_hand:	 I write articles as well. Find it at [Articles & More — Every Week](https://medium.com/@rajashree.chainwhiz)  
 - 💬 Ask me about Crypto and Blockchain
+- ✈️ Open to Remote Job Opportunities 🍻
+
 
 
  <br/> 

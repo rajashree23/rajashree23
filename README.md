@@ -2,12 +2,14 @@
  <img alt="hi" src="https://c.tenor.com/lAr_Fip4Sx0AAAAi/woman-raising-hand-joypixels.gif" align="center"  width= "100vw"/> 
  <h1> Welcome  to my profile! :point_down: </h1>
  <p> I am a full stack web developer and app developer who is passionate about building solutions :woman_technologist:. </p>
- <p>You will either find me learning new trendy skills or busy reading up on decentralised web! :sunglasses:
-P.S I write articles as well. Find it here [Articles & More — Every Week](https://medium.com/articles-more-every-week/web-2-0-to-3-0-tyranny-to-haven-24888b0f0ce4)
-</p>
+ <p>You will either find me learning new trendy skills or busy reading up on decentralised web! :sunglasses:</p>
+ <p>
+P.S I write articles as well. Find it at[ Articles & More — Every Week](https://medium.com/@rajashree.chainwhiz)
  
  <br/> 
+ 
  **Languages and Tools:**
+ 
  <p align="left"
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img  src="https://img.icons8.com/color/48/000000/javascript.png"/>

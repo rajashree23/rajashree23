@@ -1,7 +1,7 @@
 <!-- ### Hi, 👋 I am Rajashree Parhi -->
  <img alt="hi" src="https://c.tenor.com/lAr_Fip4Sx0AAAAi/woman-raising-hand-joypixels.gif" align="center"  width= "100vw"/> 
  <h1> Welcome  to my profile! :point_down: </h1>
- <p> I am a full stack web developer and app developer who is passionate about building solutions :woman_technologist:. </p>
+ <p> I am a full stack web and app developer who is passionate about building solutions :woman_technologist:. </p>
  <p>You will either find me learning new trendy skills or busy reading up on decentralised web! :sunglasses:</p>
 
 P.S  I write articles as well. Find it at [Articles & More — Every Week](https://medium.com/@rajashree.chainwhiz)  

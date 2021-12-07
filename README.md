@@ -14,7 +14,7 @@ P.S I write articles as well. Find it here [Articles & More — Every Week](
 <img  src="https://img.icons8.com/color/48/000000/html-5.png"/> 
 <img  src="https://img.icons8.com/color/48/000000/css3.png"/> 
 <img  src="https://img.icons8.com/color/48/000000/nodejs.png"/> 
-<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" />
 <img  src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 </p>
 

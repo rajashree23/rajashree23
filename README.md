@@ -19,7 +19,7 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" height="48" >
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" height="45">
 <img src="https://img.icons8.com/color/48/000000/javascript.png"/>
-<img src="https://www.manejandodatos.es/wp-content/uploads/2015/03/typescript.png"/>
+<img src="https://www.manejandodatos.es/wp-content/uploads/2015/03/typescript.png" height="45"/>
 <img src="https://img.icons8.com/color/48/000000/html-5.png"/> 
 <img src="https://img.icons8.com/color/48/000000/css3.png"/> 
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> 

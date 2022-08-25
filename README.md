@@ -5,7 +5,7 @@
  <p>You will either find me learning new trendy skills or busy reading up on decentralised web! :sunglasses:</p>
 
 - :heart: I'm currently building an open-source marketplace on the Polygon Network connecting businesses, project-owners, and clients with independent developers all around the globe. Tap here :point_right: [Chainwhiz](https://www.chainwhiz.app/)
-- :writing_hand:	 I write articles as well. Find it at [Articles & More — Every Week](https://medium.com/@rajashree.chainwhiz)  
+
 - 💬 Ask me about Crypto and Blockchain
 - ✈️ Open to Remote Job Opportunities 🍻
 
@@ -26,6 +26,12 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="48" height="48" />
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 </p>
+
+
+# ✍️ Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 
 <!--
 **rajashree23/rajashree23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

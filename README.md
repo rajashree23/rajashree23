@@ -27,6 +27,7 @@
 <img src="https://img.icons8.com/color/48/000000/flutter.png"/> 
 </p>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajashree23&count_private=true&show_icons=true&theme=radical)](https://github.com/rajashree23/github-readme-stats)
 
 # ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->

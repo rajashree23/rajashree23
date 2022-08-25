@@ -30,6 +30,9 @@
 
 # ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understanding events- Part 1](https://medium.com/behind-the-tech-chainwhiz/understanding-events-part-1-6624900e3f4?source=rss-eabf1a1cc8ef------2)
+- [NPM isn’t a Node Package Manager?](https://medium.com/behind-the-tech-chainwhiz/npm-isnt-a-node-package-manager-641578b180ee?source=rss-eabf1a1cc8ef------2)
+- [Demystifying SSH](https://systemweakness.com/demystifying-ssh-fb450a0d96b4?source=rss-eabf1a1cc8ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 

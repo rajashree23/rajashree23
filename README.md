@@ -31,11 +31,11 @@
 
 # ✍️ Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Simplifying Javascript: the “this” keyword](https://medium.com/behind-the-tech-chainwhiz/simplifying-javascript-the-this-keyword-427d8641741e?source=rss-eabf1a1cc8ef------2)
 - [Understanding Events- The Final Act](https://medium.com/behind-the-tech-chainwhiz/understanding-events-the-final-act-566e94f8c232?source=rss-eabf1a1cc8ef------2)
 - [Understanding Events-Part 2](https://medium.com/behind-the-tech-chainwhiz/understanding-events-part-2-477ca76cb69d?source=rss-eabf1a1cc8ef------2)
 - [Understanding Events- Part 1](https://medium.com/behind-the-tech-chainwhiz/understanding-events-part-1-6624900e3f4?source=rss-eabf1a1cc8ef------2)
 - [NPM isn’t a Node Package Manager?](https://medium.com/behind-the-tech-chainwhiz/npm-isnt-a-node-package-manager-641578b180ee?source=rss-eabf1a1cc8ef------2)
-- [Demystifying SSH](https://systemweakness.com/demystifying-ssh-fb450a0d96b4?source=rss-eabf1a1cc8ef------2)
 <!-- BLOG-POST-LIST:END -->
 
 

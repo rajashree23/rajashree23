@@ -14,4 +14,4 @@ jobs:
       - name: Pull in medium.com posts
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://rajashreeparhi.hashnode.dev/,https://medium.com/feed/@rajashreeparhi"
+          feed_list: "https://medium.com/feed/@rajashreeparhi"

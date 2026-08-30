@@ -10,7 +10,7 @@ I enjoy understanding systems deeply, solving complex engineering problems, and 
 
 - 🤖 Exploring **Generative AI, LLMs, RAG & Agentic AI**
 - 🧠 Deepening my understanding of **System Design, LLD & distributed systems**
-- 💻 Strengthening my **C++ and systems programming** skills
+- 💻 Strengthening my **C++ and OOPs programming** skills
 - 🛠️ Building projects that combine **software engineering + AI**
 
 ### 💡 What I've Worked With
@@ -33,12 +33,10 @@ DynamoDB, MongoDB, S3, Lambda, Step Functions
 
 ### 🌱 What I'm Interested In
 
-- Artificial Intelligence & LLM applications
 - Agentic systems & RAG
 - System Design & scalable architectures
 - Distributed systems
-- Developer tools
-- Open-source
+- DSA
 
 ### 📫 Let's Connect
 

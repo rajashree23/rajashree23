@@ -1,6 +1,6 @@
 # Hi 👋 I'm Rajashree
 
-**Full-Stack Engineer | Software Developer | AI/LLM Enthusiast**
+**Full-Stack Engineer | AI/LLM Enthusiast**
 
 I’m a software engineer with **5+ years of experience** building web applications, backend services, cloud infrastructure, and developer-focused solutions.
 
@@ -10,7 +10,6 @@ I enjoy understanding systems deeply, solving complex engineering problems, and 
 
 - 🤖 Exploring **Generative AI, LLMs, RAG & Agentic AI**
 - 🧠 Deepening my understanding of **System Design, LLD & distributed systems**
-- 💻 Strengthening my **C++ and OOPs programming** skills
 - 🛠️ Building projects that combine **software engineering + AI**
 
 ### 💡 What I've Worked With
